@@ -1,0 +1,3 @@
+This project involves analyzing the CIFAR-10 dataset and preparing it for deep learning by applying data preprocessing and train-test splitting techniques. An Artificial Neural Network (ANN) model with at least two hidden layers was constructed and trained on the dataset. Model performance was evaluated using accuracy and loss metrics, which were visualized through charts to observe training progress and overfitting behavior.
+
+To demonstrate the model's predictive capability, two test samples were selected, and the predicted labels were compared against the actual labels. Finally, the ANN model was fine-tuned by adjusting two hyperparameters (e.g., learning rate and batch size) to improve performance and achieve better accuracy and generalization.
